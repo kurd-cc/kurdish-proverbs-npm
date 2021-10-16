@@ -1,8 +1,8 @@
 # Kurdish Proverbs <br>
 
 This package will generate random Kurdish (Kurmanji) proverbs and quotes.
-<br> 
-
+<br>
+https://www.npmjs.com/package/kurdish-proverbs <br><br>
 ### Usage: <br> 
 
 1. Installation:
