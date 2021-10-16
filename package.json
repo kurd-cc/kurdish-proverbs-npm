@@ -1,0 +1,33 @@
+{
+  "name": "kurdish-proverbs",
+  "version": "1.0.0",
+  "description": "Generate random Kurdish (Kurmanji) proverbs and quotes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurd-cc/kurdish-proverbs-npm.git"
+  },
+  "keywords": [
+    "kurdish",
+    "kurmanji",
+    "quotes",
+    "generator",
+    "proverb",
+    "words",
+    "language",
+    "history"
+  ],
+  "author": "Jagar Yousef <jagar.yousef@gmail.com> (jagar.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurd-cc/kurdish-proverbs-npm/issues"
+  },
+  "homepage": "https://github.com/kurd-cc/kurdish-proverbs-npm#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
